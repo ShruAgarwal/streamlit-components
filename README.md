@@ -1,2 +1,2 @@
-# streamlit-components
-Day 14 of 30-Days-of-Streamlit Challenge
+# 🎈 streamlit-components
+Tried one of the components : `streamlit_pandas_profiling`
